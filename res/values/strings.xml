@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Muko Test App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rdio_playback">Song PlayBack</string>
+    <string name="no_recognition_toast">Speech Recognition currently not available. Please type in your query.</string>
+	<string name="no_connection_toast">This app needs internet, please turn on your internet.</string>
+	<string name="empty_input_query_error">Your Input is empty, please enter a song to search.</string>
+	<string name="edit_text_hint">Enter Song OR Hold down MIC to speak</string>
+	<string name="mic_content_des">MIC</string>
+	<string name="search_button_string">Search</string>
+</resources>

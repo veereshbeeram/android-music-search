@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow1">#F2E30A</color>
+    <color name="yellow2">#F2EA7E</color>
+    <color name="stroke_grey">#A6A6A6</color>
+    <color name="orange1">#F5B240</color>
+    <color name="orange2">#F2D7A7</color>
+    <color name="blue1">#4DBCF7</color>
+    <color name="blue2">#92D4F7</color>
+    <color name="blue_dark">#0099CC</color>
+    <color name="blue_mid">#33B5E5</color>
+    <color name="blue_light">#86DCFC</color>
+    <color name="border_blue">#33B5E5</color>
+    <color name="search_button_bg_orange_end">#FFBB33</color>
+    <color name="search_button_bg_orange_start">#FF8800</color>
+</resources>
